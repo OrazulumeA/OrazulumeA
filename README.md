@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oraz
+- 👋 Hi, I’m Anulika
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning SQL, Power BI for Data analysis
 - 💞️ I’m looking to collaborate on a lot of projects
